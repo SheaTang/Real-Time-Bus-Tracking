@@ -3,7 +3,7 @@
 
 
 ## Description:
--In this project, data is driven from the MBTA (Massachusetts Bay Transportation Authority) API, in order to track the real time bus movement of: Bus 1, that travels between the from Harvard Square to Nubian Station (both located within the City of Boston).
+In this project, data is derived from the MBTA (Massachusetts Bay Transportation Authority) API, in order to track the real time bus movement of: Bus 1, that travels between the from Harvard Square to Nubian Station (both located within the City of Boston).
 ![image](https://user-images.githubusercontent.com/101611557/169935638-63f4bbf1-8e2a-4eeb-867b-cbc9f70ded96.png)
 
 
