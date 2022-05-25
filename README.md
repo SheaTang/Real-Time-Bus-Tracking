@@ -12,11 +12,11 @@
 <li>Run the project
 
 # Road Map of Future Improvements: 
-<li>In the future I would add interactive functionality <li>
-<li>integrate REACT.js<li>
-<li>As I continue to add skills to my developer toolbox I will return to this project and update it.<li>
+<li>In the future I would add interactive functionality 
+<li>integrate REACT.js
+<li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
 #Dependencies: 
-- Generate MapBox Token [here](https://docs.mapbox.com/help/getting-started/access-tokens/) 
-- Request API Key [here](https://www.mbta.com/developers/v3-api)
+<li>Generate MapBox Token [here](https://docs.mapbox.com/help/getting-started/access-tokens/) 
+<li>Request API Key [here](https://www.mbta.com/developers/v3-api)
 ![image](https://user-images.githubusercontent.com/101611557/170176035-d4d11ce3-aa9a-4dc5-ba89-fa3f99098e07.png)
