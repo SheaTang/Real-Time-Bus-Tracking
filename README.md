@@ -7,9 +7,9 @@
 
 
 # How to Run:
-<li>Download the file from this GitHub Repository e.g. Clone this Repository <li>
-<li>Open the index file in the console or your preferred code editor e.g. VS Code <li>
-<li>Run the project<li>
+<li>Download the file from this GitHub Repository e.g. Clone this Repository 
+<li>Open the index file in the console or your preferred code editor e.g. VS Code 
+<li>Run the project
 
 # Road Map of Future Improvements: 
 <li>In the future I would add interactive functionality <li>
