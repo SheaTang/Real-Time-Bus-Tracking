@@ -17,7 +17,7 @@
 <li>integrate REACT.js
 <li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
-#Dependencies: 
+# Dependencies: 
 <li>Generate MapBox Token: (https://docs.mapbox.com/help/getting-started/access-tokens/) 
 <li>Request API Key: (https://www.mbta.com/developers/v3-api)
 
