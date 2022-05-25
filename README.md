@@ -21,3 +21,4 @@ In this project, data is derived from the MBTA (Massachusetts Bay Transportation
 <li>Generate MapBox Token: (https://docs.mapbox.com/help/getting-started/access-tokens/) 
 <li>Request API Key: (https://www.mbta.com/developers/v3-api)
 
+[LICENSE.md](https://github.com/SheaTang/Real-Time-Bus-Tracking/files/8767801/LICENSE.md)
