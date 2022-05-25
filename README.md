@@ -17,6 +17,6 @@
 <li>As I continue to add skills to my developer toolbox I will return to this project and update it.
 
 #Dependencies: 
-<li>Generate MapBox Token [here](https://docs.mapbox.com/help/getting-started/access-tokens/) 
-<li>Request API Key [here](https://www.mbta.com/developers/v3-api)
-![image](https://user-images.githubusercontent.com/101611557/170176035-d4d11ce3-aa9a-4dc5-ba89-fa3f99098e07.png)
+<li>Generate MapBox Token: (https://docs.mapbox.com/help/getting-started/access-tokens/) 
+<li>Request API Key: (https://www.mbta.com/developers/v3-api)
+
